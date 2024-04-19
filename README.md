@@ -1,5 +1,4 @@
 - 👋 Hi, I’m JinHyung Park
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java, Oracle, HTML, Css, JavaScript
 
 <!---
