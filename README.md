@@ -33,3 +33,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=fff"/>
 </p>
+
+<h3 align="left">Blog</h3>
+<p align="left">
+    <a href="https://tt2-blogging.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tistory-F05032?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog">
+    </a>
+
+</p>
