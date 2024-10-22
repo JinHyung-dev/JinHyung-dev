@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JinHyung's+GitHub!👋)](https://git.io/typing-svg)
+![Profile hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JinHyung-dev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 ![JinHyung's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung-dev&theme=nord&hide_border=true&count_private=true) ![JinHyung's Top Langs](https://github-readme-stats.vercel.app/api?username=JinHyung-dev&show_icons=true&layout=compact&theme=nord&hide_border=true&langs_count=10)
 
