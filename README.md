@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon&logoColor=white">
 </p>
 
 <h3 align="left">Front-End</h3>
