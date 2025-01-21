@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black">
   <br>
+  <img src="https://img.shields.io/badge/MyBatis-F8DC75?style=flat-square&logo=myBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon&logoColor=white">
 </p>
@@ -29,11 +29,18 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 </p>
 
+<h3 align="left">DB</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySql-E34F26?style=flat-square&logo=MySql&logoColor=white">
+</p>
+
 <h3 align="left">Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000?style=flat-square&logo=notion&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/slack-F80000?style=flat-square&logo=slack&logoColor=white"/>
 </p>
 
 <h3 align="left">Blog</h3>
@@ -41,5 +48,13 @@
     <a href="https://tt2-blogging.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog">
     </a>
+</p>
 
+---
+<h3 align="left">Certificate</h3>
+<p align="left">
+<ul>
+  <li>정보처리기사 (2024.12)</li>
+  <li>SQLD (2024.12)</li>
+</ul>
 </p>
