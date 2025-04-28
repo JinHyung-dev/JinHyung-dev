@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JinHyung's+GitHub!👋)](https://git.io/typing-svg)
-![Profile hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JinHyung-dev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 ![JinHyung's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyung-dev&theme=nord&hide_border=true&count_private=true) ![JinHyung's Top Langs](https://github-readme-stats.vercel.app/api?username=JinHyung-dev&show_icons=true&layout=compact&theme=nord&hide_border=true&langs_count=10)
 
@@ -9,10 +8,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" alt="Spring Boot Badge">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white" alt="Apache Maven Badge">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black" alt="Apache Tomcat Badge">
   <br>
   <img src="https://img.shields.io/badge/MyBatis-F8DC75?style=flat-square&logo=myBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
